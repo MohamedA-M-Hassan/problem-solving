@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
 	//http://codeforces.com/problemset/problem/841/A
+	//http://codeforces.com/contest/841/problem/A
 	int arr[200] = {0};
 	string color;
 	int n, k;
